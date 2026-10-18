@@ -1,5 +1,5 @@
 
-class TypingTest < Formula
+class Typing < Formula
   desc "Terminal typing speed test"
   homepage "https://github.com/fake-smiler-115/typing-test"
   url "https://github.com/fake-smiler-115/typing-test/archive/refs/tags/v1.0.1.tar.gz"
