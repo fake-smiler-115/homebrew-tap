@@ -3,7 +3,7 @@ class Typing < Formula
   desc "Terminal typing speed test"
   homepage "https://github.com/fake-smiler-115/typing-test"
   url "https://github.com/fake-smiler-115/typing-test/archive/refs/tags/v1.0.1.tar.gz"
-  sha256 "8b38313bdddf8ae0e403a01a800a0add3e5e8ed877afed9e149718d087141939"
+  sha256 "10260e5b42fd701436599a9d8204c63ad2621951c925d9a836eb993885068f93"
   license "MIT"
 
   depends_on "deno"
